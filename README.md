@@ -14,7 +14,8 @@ I'm a **Flutter developer** who thrives on building sleek, user-friendly mobile 
 ![](https://github-readme-stats.vercel.app/api?username=rishikesh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rishikesh-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rishikesh-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
