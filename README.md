@@ -1,6 +1,8 @@
-# 💫 About Me:
-#👋 Hi, I'm
-I'm a passionate Flutter developer crafting smooth, user-friendly mobile apps with a focus on animations and robust testing. I love turning ideas into reality through clean code and creative solutions. When I'm not coding, you might find me experimenting with Docker or exploring new tools to level up my dev skills.
+# 💫 Hey, I'm Rishikesh Richi! 👋
+
+I'm a **Flutter developer** who thrives on building sleek, user-friendly mobile apps with *buttery-smooth animations* and rock-solid testing. I love transforming creative ideas into clean, efficient code. When I’m not coding, I’m tinkering with **Docker**, exploring **Supabase** or **Firebase**, or diving into new tools to supercharge my dev journey.
+
+🌟 **What drives me?** Creating apps that feel alive and workflows that run like a dream. Let’s build something awesome together!
 
 
 ## 🌐 Socials:
