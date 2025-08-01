@@ -1,4 +1,5 @@
-# 💫 About Me: RISHIKESH K
+# 💫 About Me:
+#👋 Hi, I'm
 I'm a passionate Flutter developer crafting smooth, user-friendly mobile apps with a focus on animations and robust testing. I love turning ideas into reality through clean code and creative solutions. When I'm not coding, you might find me experimenting with Docker or exploring new tools to level up my dev skills.
 
 
