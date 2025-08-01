@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Rishikesh Richi! 👋
+# 💫 Hey, I'm RISHIKESH K 👋
 
 I'm a **Flutter developer** who thrives on building sleek, user-friendly mobile apps with *buttery-smooth animations* and rock-solid testing. I love transforming creative ideas into clean, efficient code. When I’m not coding, I’m tinkering with **Docker**, exploring **Supabase** or **Firebase**, or diving into new tools to supercharge my dev journey.
 
